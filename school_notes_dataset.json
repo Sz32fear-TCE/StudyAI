@@ -1,0 +1,802 @@
+[
+    {
+        "note_id": "NOTE_001",
+        "date": "2026-09-17",
+        "subject": "Biology",
+        "topic": "Genetics (Unit 2)",
+        "format_style": "Cornell Method",
+        "content": "Lecture Notes - Important! Study of heredity. Gregor Mendel discovered dominant and recessive traits using pea plants. Punnett squares predict genotype outcomes. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_002",
+        "date": "2026-09-14",
+        "subject": "Literature",
+        "topic": "Shakespearean Tragedy (Unit 1)",
+        "format_style": "Cornell Method",
+        "content": "Lecture Notes - Important! Features a noble protagonist with a fatal flaw (hamartia) leading to their downfall. Examples include Hamlet and Macbeth. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_003",
+        "date": "2026-09-14",
+        "subject": "History",
+        "topic": "World War I (Unit 1)",
+        "format_style": "Summary Paragraph",
+        "content": "Review before Friday's quiz. Triggered by the assassination of Archduke Franz Ferdinand in 1914. Featured trench warfare and ended with the Treaty of Versailles. Make sure to read chapter text."
+    },
+    {
+        "note_id": "NOTE_004",
+        "date": "2026-09-10",
+        "subject": "Biology",
+        "topic": "Genetics (Unit 1)",
+        "format_style": "Cornell Method",
+        "content": "Lecture Notes - Important! Study of heredity. Gregor Mendel discovered dominant and recessive traits using pea plants. Punnett squares predict genotype outcomes. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_005",
+        "date": "2026-09-10",
+        "subject": "Biology",
+        "topic": "Genetics (Unit 4)",
+        "format_style": "Standard Bullets",
+        "content": "Lecture Notes - Important! Study of heredity. Gregor Mendel discovered dominant and recessive traits using pea plants. Punnett squares predict genotype outcomes. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_006",
+        "date": "2026-09-28",
+        "subject": "Chemistry",
+        "topic": "Periodic Table (Unit 2)",
+        "format_style": "Cornell Method",
+        "content": "Study Guide: Organized by atomic number. Groups (columns) share similar chemical properties. Periods (rows) represent electron shells. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_007",
+        "date": "2026-09-17",
+        "subject": "History",
+        "topic": "Industrial Revolution (Unit 4)",
+        "format_style": "Standard Bullets",
+        "content": "Lecture Notes - Important! Transition to new manufacturing processes in Europe and the US (1760-1840). Shifted agrarian economies to industrial powerhouses. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_008",
+        "date": "2026-09-10",
+        "subject": "History",
+        "topic": "The French Revolution (Unit 4)",
+        "format_style": "Cornell Method",
+        "content": "Study Guide: Begot by financial crisis and social inequality in 1789. Led to the rise of Napoleon Bonaparte and the end of absolute monarchy. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_009",
+        "date": "2026-09-17",
+        "subject": "Literature",
+        "topic": "Shakespearean Tragedy (Unit 2)",
+        "format_style": "Standard Bullets",
+        "content": "Lecture Notes - Important! Features a noble protagonist with a fatal flaw (hamartia) leading to their downfall. Examples include Hamlet and Macbeth. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_010",
+        "date": "2026-09-25",
+        "subject": "Chemistry",
+        "topic": "Acids and Bases (Unit 2)",
+        "format_style": "Cornell Method",
+        "content": "Lecture Notes - Important! Acids have a pH < 7 and donate protons. Bases have a pH > 7 and accept protons. Neutralization yields water and salt. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_011",
+        "date": "2026-09-24",
+        "subject": "Chemistry",
+        "topic": "Periodic Table (Unit 4)",
+        "format_style": "Summary Paragraph",
+        "content": "Study Guide: Organized by atomic number. Groups (columns) share similar chemical properties. Periods (rows) represent electron shells. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_012",
+        "date": "2026-09-10",
+        "subject": "Literature",
+        "topic": "Metaphor vs Simile (Unit 5)",
+        "format_style": "Summary Paragraph",
+        "content": "Review before Friday's quiz. Both compare two unlike things. Similes explicitly use 'like' or 'as' (e.g., brave as a lion). Metaphors state it directly. Make sure to read chapter text."
+    },
+    {
+        "note_id": "NOTE_013",
+        "date": "2026-09-14",
+        "subject": "Literature",
+        "topic": "Metaphor vs Simile (Unit 5)",
+        "format_style": "Cornell Method",
+        "content": "Lecture Notes - Important! Both compare two unlike things. Similes explicitly use 'like' or 'as' (e.g., brave as a lion). Metaphors state it directly. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_014",
+        "date": "2026-09-21",
+        "subject": "Biology",
+        "topic": "Mitosis (Unit 3)",
+        "format_style": "Summary Paragraph",
+        "content": "Lecture Notes - Important! Cell division resulting in two identical daughter cells. Phases: Prophase, Metaphase, Anaphase, Telophase. Vital for growth and repair. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_015",
+        "date": "2026-09-21",
+        "subject": "History",
+        "topic": "Industrial Revolution (Unit 3)",
+        "format_style": "Cornell Method",
+        "content": "Review before Friday's quiz. Transition to new manufacturing processes in Europe and the US (1760-1840). Shifted agrarian economies to industrial powerhouses. Make sure to read chapter text."
+    },
+    {
+        "note_id": "NOTE_016",
+        "date": "2026-09-27",
+        "subject": "History",
+        "topic": "The French Revolution (Unit 2)",
+        "format_style": "Summary Paragraph",
+        "content": "Lecture Notes - Important! Begot by financial crisis and social inequality in 1789. Led to the rise of Napoleon Bonaparte and the end of absolute monarchy. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_017",
+        "date": "2026-09-14",
+        "subject": "Chemistry",
+        "topic": "Thermodynamics (Unit 1)",
+        "format_style": "Summary Paragraph",
+        "content": "Review before Friday's quiz. First law: Energy cannot be created or destroyed. Second law: Entropy of an isolated system always increases over time. Make sure to read chapter text."
+    },
+    {
+        "note_id": "NOTE_018",
+        "date": "2026-09-12",
+        "subject": "History",
+        "topic": "World War I (Unit 1)",
+        "format_style": "Summary Paragraph",
+        "content": "Review before Friday's quiz. Triggered by the assassination of Archduke Franz Ferdinand in 1914. Featured trench warfare and ended with the Treaty of Versailles. Make sure to read chapter text."
+    },
+    {
+        "note_id": "NOTE_019",
+        "date": "2026-09-29",
+        "subject": "Chemistry",
+        "topic": "Thermodynamics (Unit 5)",
+        "format_style": "Standard Bullets",
+        "content": "Lecture Notes - Important! First law: Energy cannot be created or destroyed. Second law: Entropy of an isolated system always increases over time. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_020",
+        "date": "2026-09-28",
+        "subject": "Literature",
+        "topic": "Metaphor vs Simile (Unit 3)",
+        "format_style": "Standard Bullets",
+        "content": "Lecture Notes - Important! Both compare two unlike things. Similes explicitly use 'like' or 'as' (e.g., brave as a lion). Metaphors state it directly. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_021",
+        "date": "2026-09-19",
+        "subject": "Literature",
+        "topic": "Shakespearean Tragedy (Unit 5)",
+        "format_style": "Cornell Method",
+        "content": "Lecture Notes - Important! Features a noble protagonist with a fatal flaw (hamartia) leading to their downfall. Examples include Hamlet and Macbeth. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_022",
+        "date": "2026-09-22",
+        "subject": "Literature",
+        "topic": "The Odyssey (Unit 1)",
+        "format_style": "Cornell Method",
+        "content": "Review before Friday's quiz. Epic poem attributed to Homer. Chronicles Odysseus's 10-year journey home to Ithaca after the Trojan War. Theme: Hubris. Make sure to read chapter text."
+    },
+    {
+        "note_id": "NOTE_023",
+        "date": "2026-09-21",
+        "subject": "Biology",
+        "topic": "Genetics (Unit 4)",
+        "format_style": "Summary Paragraph",
+        "content": "Review before Friday's quiz. Study of heredity. Gregor Mendel discovered dominant and recessive traits using pea plants. Punnett squares predict genotype outcomes. Make sure to read chapter text."
+    },
+    {
+        "note_id": "NOTE_024",
+        "date": "2026-09-27",
+        "subject": "Literature",
+        "topic": "Shakespearean Tragedy (Unit 5)",
+        "format_style": "Cornell Method",
+        "content": "Review before Friday's quiz. Features a noble protagonist with a fatal flaw (hamartia) leading to their downfall. Examples include Hamlet and Macbeth. Make sure to read chapter text."
+    },
+    {
+        "note_id": "NOTE_025",
+        "date": "2026-09-17",
+        "subject": "Biology",
+        "topic": "Genetics (Unit 3)",
+        "format_style": "Cornell Method",
+        "content": "Study Guide: Study of heredity. Gregor Mendel discovered dominant and recessive traits using pea plants. Punnett squares predict genotype outcomes. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_026",
+        "date": "2026-09-24",
+        "subject": "Biology",
+        "topic": "Genetics (Unit 3)",
+        "format_style": "Standard Bullets",
+        "content": "Lecture Notes - Important! Study of heredity. Gregor Mendel discovered dominant and recessive traits using pea plants. Punnett squares predict genotype outcomes. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_027",
+        "date": "2026-09-24",
+        "subject": "Chemistry",
+        "topic": "Periodic Table (Unit 3)",
+        "format_style": "Cornell Method",
+        "content": "Lecture Notes - Important! Organized by atomic number. Groups (columns) share similar chemical properties. Periods (rows) represent electron shells. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_028",
+        "date": "2026-09-14",
+        "subject": "History",
+        "topic": "Industrial Revolution (Unit 5)",
+        "format_style": "Summary Paragraph",
+        "content": "Study Guide: Transition to new manufacturing processes in Europe and the US (1760-1840). Shifted agrarian economies to industrial powerhouses. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_029",
+        "date": "2026-09-28",
+        "subject": "Biology",
+        "topic": "Photosynthesis (Unit 1)",
+        "format_style": "Standard Bullets",
+        "content": "Study Guide: Process by which plants convert light energy into chemical energy. Formula: 6CO2 + 6H2O -> C6H12O6 + 6O2. Occurs in chloroplasts. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_030",
+        "date": "2026-09-22",
+        "subject": "History",
+        "topic": "Industrial Revolution (Unit 2)",
+        "format_style": "Standard Bullets",
+        "content": "Lecture Notes - Important! Transition to new manufacturing processes in Europe and the US (1760-1840). Shifted agrarian economies to industrial powerhouses. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_031",
+        "date": "2026-09-25",
+        "subject": "Biology",
+        "topic": "Mitosis (Unit 3)",
+        "format_style": "Standard Bullets",
+        "content": "Review before Friday's quiz. Cell division resulting in two identical daughter cells. Phases: Prophase, Metaphase, Anaphase, Telophase. Vital for growth and repair. Make sure to read chapter text."
+    },
+    {
+        "note_id": "NOTE_032",
+        "date": "2026-09-10",
+        "subject": "History",
+        "topic": "World War I (Unit 2)",
+        "format_style": "Cornell Method",
+        "content": "Study Guide: Triggered by the assassination of Archduke Franz Ferdinand in 1914. Featured trench warfare and ended with the Treaty of Versailles. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_033",
+        "date": "2026-09-20",
+        "subject": "Biology",
+        "topic": "Genetics (Unit 5)",
+        "format_style": "Summary Paragraph",
+        "content": "Lecture Notes - Important! Study of heredity. Gregor Mendel discovered dominant and recessive traits using pea plants. Punnett squares predict genotype outcomes. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_034",
+        "date": "2026-09-16",
+        "subject": "Literature",
+        "topic": "Shakespearean Tragedy (Unit 5)",
+        "format_style": "Cornell Method",
+        "content": "Study Guide: Features a noble protagonist with a fatal flaw (hamartia) leading to their downfall. Examples include Hamlet and Macbeth. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_035",
+        "date": "2026-09-22",
+        "subject": "Biology",
+        "topic": "Photosynthesis (Unit 1)",
+        "format_style": "Summary Paragraph",
+        "content": "Study Guide: Process by which plants convert light energy into chemical energy. Formula: 6CO2 + 6H2O -> C6H12O6 + 6O2. Occurs in chloroplasts. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_036",
+        "date": "2026-09-25",
+        "subject": "Chemistry",
+        "topic": "Acids and Bases (Unit 4)",
+        "format_style": "Summary Paragraph",
+        "content": "Study Guide: Acids have a pH < 7 and donate protons. Bases have a pH > 7 and accept protons. Neutralization yields water and salt. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_037",
+        "date": "2026-09-17",
+        "subject": "Literature",
+        "topic": "Shakespearean Tragedy (Unit 1)",
+        "format_style": "Cornell Method",
+        "content": "Review before Friday's quiz. Features a noble protagonist with a fatal flaw (hamartia) leading to their downfall. Examples include Hamlet and Macbeth. Make sure to read chapter text."
+    },
+    {
+        "note_id": "NOTE_038",
+        "date": "2026-09-15",
+        "subject": "Chemistry",
+        "topic": "Acids and Bases (Unit 5)",
+        "format_style": "Summary Paragraph",
+        "content": "Study Guide: Acids have a pH < 7 and donate protons. Bases have a pH > 7 and accept protons. Neutralization yields water and salt. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_039",
+        "date": "2026-09-13",
+        "subject": "Chemistry",
+        "topic": "Thermodynamics (Unit 4)",
+        "format_style": "Standard Bullets",
+        "content": "Review before Friday's quiz. First law: Energy cannot be created or destroyed. Second law: Entropy of an isolated system always increases over time. Make sure to read chapter text."
+    },
+    {
+        "note_id": "NOTE_040",
+        "date": "2026-09-27",
+        "subject": "Biology",
+        "topic": "Mitosis (Unit 3)",
+        "format_style": "Summary Paragraph",
+        "content": "Review before Friday's quiz. Cell division resulting in two identical daughter cells. Phases: Prophase, Metaphase, Anaphase, Telophase. Vital for growth and repair. Make sure to read chapter text."
+    },
+    {
+        "note_id": "NOTE_041",
+        "date": "2026-09-16",
+        "subject": "Literature",
+        "topic": "Metaphor vs Simile (Unit 3)",
+        "format_style": "Standard Bullets",
+        "content": "Lecture Notes - Important! Both compare two unlike things. Similes explicitly use 'like' or 'as' (e.g., brave as a lion). Metaphors state it directly. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_042",
+        "date": "2026-09-22",
+        "subject": "History",
+        "topic": "The French Revolution (Unit 3)",
+        "format_style": "Standard Bullets",
+        "content": "Study Guide: Begot by financial crisis and social inequality in 1789. Led to the rise of Napoleon Bonaparte and the end of absolute monarchy. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_043",
+        "date": "2026-09-29",
+        "subject": "Chemistry",
+        "topic": "Acids and Bases (Unit 1)",
+        "format_style": "Standard Bullets",
+        "content": "Lecture Notes - Important! Acids have a pH < 7 and donate protons. Bases have a pH > 7 and accept protons. Neutralization yields water and salt. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_044",
+        "date": "2026-09-12",
+        "subject": "Literature",
+        "topic": "The Odyssey (Unit 1)",
+        "format_style": "Standard Bullets",
+        "content": "Study Guide: Epic poem attributed to Homer. Chronicles Odysseus's 10-year journey home to Ithaca after the Trojan War. Theme: Hubris. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_045",
+        "date": "2026-09-25",
+        "subject": "History",
+        "topic": "World War I (Unit 5)",
+        "format_style": "Standard Bullets",
+        "content": "Lecture Notes - Important! Triggered by the assassination of Archduke Franz Ferdinand in 1914. Featured trench warfare and ended with the Treaty of Versailles. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_046",
+        "date": "2026-09-25",
+        "subject": "History",
+        "topic": "The French Revolution (Unit 1)",
+        "format_style": "Standard Bullets",
+        "content": "Lecture Notes - Important! Begot by financial crisis and social inequality in 1789. Led to the rise of Napoleon Bonaparte and the end of absolute monarchy. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_047",
+        "date": "2026-09-17",
+        "subject": "Biology",
+        "topic": "Genetics (Unit 4)",
+        "format_style": "Summary Paragraph",
+        "content": "Study Guide: Study of heredity. Gregor Mendel discovered dominant and recessive traits using pea plants. Punnett squares predict genotype outcomes. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_048",
+        "date": "2026-09-25",
+        "subject": "History",
+        "topic": "World War I (Unit 4)",
+        "format_style": "Standard Bullets",
+        "content": "Review before Friday's quiz. Triggered by the assassination of Archduke Franz Ferdinand in 1914. Featured trench warfare and ended with the Treaty of Versailles. Make sure to read chapter text."
+    },
+    {
+        "note_id": "NOTE_049",
+        "date": "2026-09-24",
+        "subject": "Literature",
+        "topic": "The Odyssey (Unit 4)",
+        "format_style": "Standard Bullets",
+        "content": "Lecture Notes - Important! Epic poem attributed to Homer. Chronicles Odysseus's 10-year journey home to Ithaca after the Trojan War. Theme: Hubris. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_050",
+        "date": "2026-09-29",
+        "subject": "History",
+        "topic": "The French Revolution (Unit 5)",
+        "format_style": "Standard Bullets",
+        "content": "Study Guide: Begot by financial crisis and social inequality in 1789. Led to the rise of Napoleon Bonaparte and the end of absolute monarchy. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_051",
+        "date": "2026-09-19",
+        "subject": "Literature",
+        "topic": "The Odyssey (Unit 3)",
+        "format_style": "Summary Paragraph",
+        "content": "Lecture Notes - Important! Epic poem attributed to Homer. Chronicles Odysseus's 10-year journey home to Ithaca after the Trojan War. Theme: Hubris. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_052",
+        "date": "2026-09-13",
+        "subject": "Literature",
+        "topic": "The Odyssey (Unit 2)",
+        "format_style": "Summary Paragraph",
+        "content": "Study Guide: Epic poem attributed to Homer. Chronicles Odysseus's 10-year journey home to Ithaca after the Trojan War. Theme: Hubris. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_053",
+        "date": "2026-09-23",
+        "subject": "Chemistry",
+        "topic": "Acids and Bases (Unit 4)",
+        "format_style": "Summary Paragraph",
+        "content": "Lecture Notes - Important! Acids have a pH < 7 and donate protons. Bases have a pH > 7 and accept protons. Neutralization yields water and salt. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_054",
+        "date": "2026-09-28",
+        "subject": "Literature",
+        "topic": "Metaphor vs Simile (Unit 1)",
+        "format_style": "Cornell Method",
+        "content": "Lecture Notes - Important! Both compare two unlike things. Similes explicitly use 'like' or 'as' (e.g., brave as a lion). Metaphors state it directly. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_055",
+        "date": "2026-09-17",
+        "subject": "Chemistry",
+        "topic": "Thermodynamics (Unit 1)",
+        "format_style": "Summary Paragraph",
+        "content": "Study Guide: First law: Energy cannot be created or destroyed. Second law: Entropy of an isolated system always increases over time. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_056",
+        "date": "2026-09-15",
+        "subject": "Chemistry",
+        "topic": "Acids and Bases (Unit 3)",
+        "format_style": "Cornell Method",
+        "content": "Study Guide: Acids have a pH < 7 and donate protons. Bases have a pH > 7 and accept protons. Neutralization yields water and salt. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_057",
+        "date": "2026-09-11",
+        "subject": "Biology",
+        "topic": "Genetics (Unit 2)",
+        "format_style": "Standard Bullets",
+        "content": "Review before Friday's quiz. Study of heredity. Gregor Mendel discovered dominant and recessive traits using pea plants. Punnett squares predict genotype outcomes. Make sure to read chapter text."
+    },
+    {
+        "note_id": "NOTE_058",
+        "date": "2026-09-30",
+        "subject": "Biology",
+        "topic": "Genetics (Unit 2)",
+        "format_style": "Summary Paragraph",
+        "content": "Review before Friday's quiz. Study of heredity. Gregor Mendel discovered dominant and recessive traits using pea plants. Punnett squares predict genotype outcomes. Make sure to read chapter text."
+    },
+    {
+        "note_id": "NOTE_059",
+        "date": "2026-09-22",
+        "subject": "Biology",
+        "topic": "Genetics (Unit 4)",
+        "format_style": "Standard Bullets",
+        "content": "Study Guide: Study of heredity. Gregor Mendel discovered dominant and recessive traits using pea plants. Punnett squares predict genotype outcomes. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_060",
+        "date": "2026-09-23",
+        "subject": "History",
+        "topic": "Industrial Revolution (Unit 4)",
+        "format_style": "Standard Bullets",
+        "content": "Study Guide: Transition to new manufacturing processes in Europe and the US (1760-1840). Shifted agrarian economies to industrial powerhouses. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_061",
+        "date": "2026-09-27",
+        "subject": "History",
+        "topic": "The French Revolution (Unit 5)",
+        "format_style": "Cornell Method",
+        "content": "Study Guide: Begot by financial crisis and social inequality in 1789. Led to the rise of Napoleon Bonaparte and the end of absolute monarchy. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_062",
+        "date": "2026-09-28",
+        "subject": "Literature",
+        "topic": "The Odyssey (Unit 4)",
+        "format_style": "Cornell Method",
+        "content": "Review before Friday's quiz. Epic poem attributed to Homer. Chronicles Odysseus's 10-year journey home to Ithaca after the Trojan War. Theme: Hubris. Make sure to read chapter text."
+    },
+    {
+        "note_id": "NOTE_063",
+        "date": "2026-09-15",
+        "subject": "Biology",
+        "topic": "Mitosis (Unit 2)",
+        "format_style": "Cornell Method",
+        "content": "Study Guide: Cell division resulting in two identical daughter cells. Phases: Prophase, Metaphase, Anaphase, Telophase. Vital for growth and repair. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_064",
+        "date": "2026-09-12",
+        "subject": "History",
+        "topic": "Industrial Revolution (Unit 1)",
+        "format_style": "Standard Bullets",
+        "content": "Review before Friday's quiz. Transition to new manufacturing processes in Europe and the US (1760-1840). Shifted agrarian economies to industrial powerhouses. Make sure to read chapter text."
+    },
+    {
+        "note_id": "NOTE_065",
+        "date": "2026-09-12",
+        "subject": "Biology",
+        "topic": "Mitosis (Unit 2)",
+        "format_style": "Standard Bullets",
+        "content": "Study Guide: Cell division resulting in two identical daughter cells. Phases: Prophase, Metaphase, Anaphase, Telophase. Vital for growth and repair. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_066",
+        "date": "2026-09-22",
+        "subject": "Literature",
+        "topic": "The Odyssey (Unit 1)",
+        "format_style": "Cornell Method",
+        "content": "Lecture Notes - Important! Epic poem attributed to Homer. Chronicles Odysseus's 10-year journey home to Ithaca after the Trojan War. Theme: Hubris. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_067",
+        "date": "2026-09-21",
+        "subject": "Chemistry",
+        "topic": "Thermodynamics (Unit 2)",
+        "format_style": "Cornell Method",
+        "content": "Lecture Notes - Important! First law: Energy cannot be created or destroyed. Second law: Entropy of an isolated system always increases over time. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_068",
+        "date": "2026-09-17",
+        "subject": "Biology",
+        "topic": "Genetics (Unit 5)",
+        "format_style": "Standard Bullets",
+        "content": "Study Guide: Study of heredity. Gregor Mendel discovered dominant and recessive traits using pea plants. Punnett squares predict genotype outcomes. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_069",
+        "date": "2026-09-24",
+        "subject": "Chemistry",
+        "topic": "Thermodynamics (Unit 5)",
+        "format_style": "Summary Paragraph",
+        "content": "Review before Friday's quiz. First law: Energy cannot be created or destroyed. Second law: Entropy of an isolated system always increases over time. Make sure to read chapter text."
+    },
+    {
+        "note_id": "NOTE_070",
+        "date": "2026-09-29",
+        "subject": "Chemistry",
+        "topic": "Thermodynamics (Unit 3)",
+        "format_style": "Cornell Method",
+        "content": "Study Guide: First law: Energy cannot be created or destroyed. Second law: Entropy of an isolated system always increases over time. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_071",
+        "date": "2026-09-15",
+        "subject": "Biology",
+        "topic": "Mitosis (Unit 4)",
+        "format_style": "Summary Paragraph",
+        "content": "Study Guide: Cell division resulting in two identical daughter cells. Phases: Prophase, Metaphase, Anaphase, Telophase. Vital for growth and repair. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_072",
+        "date": "2026-09-13",
+        "subject": "Biology",
+        "topic": "Mitosis (Unit 5)",
+        "format_style": "Cornell Method",
+        "content": "Review before Friday's quiz. Cell division resulting in two identical daughter cells. Phases: Prophase, Metaphase, Anaphase, Telophase. Vital for growth and repair. Make sure to read chapter text."
+    },
+    {
+        "note_id": "NOTE_073",
+        "date": "2026-09-10",
+        "subject": "Literature",
+        "topic": "Metaphor vs Simile (Unit 3)",
+        "format_style": "Standard Bullets",
+        "content": "Study Guide: Both compare two unlike things. Similes explicitly use 'like' or 'as' (e.g., brave as a lion). Metaphors state it directly. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_074",
+        "date": "2026-09-25",
+        "subject": "History",
+        "topic": "The French Revolution (Unit 5)",
+        "format_style": "Summary Paragraph",
+        "content": "Study Guide: Begot by financial crisis and social inequality in 1789. Led to the rise of Napoleon Bonaparte and the end of absolute monarchy. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_075",
+        "date": "2026-09-12",
+        "subject": "Literature",
+        "topic": "The Odyssey (Unit 5)",
+        "format_style": "Standard Bullets",
+        "content": "Review before Friday's quiz. Epic poem attributed to Homer. Chronicles Odysseus's 10-year journey home to Ithaca after the Trojan War. Theme: Hubris. Make sure to read chapter text."
+    },
+    {
+        "note_id": "NOTE_076",
+        "date": "2026-09-21",
+        "subject": "History",
+        "topic": "Industrial Revolution (Unit 5)",
+        "format_style": "Cornell Method",
+        "content": "Study Guide: Transition to new manufacturing processes in Europe and the US (1760-1840). Shifted agrarian economies to industrial powerhouses. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_077",
+        "date": "2026-09-21",
+        "subject": "History",
+        "topic": "Industrial Revolution (Unit 4)",
+        "format_style": "Standard Bullets",
+        "content": "Lecture Notes - Important! Transition to new manufacturing processes in Europe and the US (1760-1840). Shifted agrarian economies to industrial powerhouses. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_078",
+        "date": "2026-09-17",
+        "subject": "Literature",
+        "topic": "The Odyssey (Unit 1)",
+        "format_style": "Summary Paragraph",
+        "content": "Lecture Notes - Important! Epic poem attributed to Homer. Chronicles Odysseus's 10-year journey home to Ithaca after the Trojan War. Theme: Hubris. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_079",
+        "date": "2026-09-30",
+        "subject": "Biology",
+        "topic": "Mitosis (Unit 1)",
+        "format_style": "Cornell Method",
+        "content": "Study Guide: Cell division resulting in two identical daughter cells. Phases: Prophase, Metaphase, Anaphase, Telophase. Vital for growth and repair. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_080",
+        "date": "2026-09-17",
+        "subject": "Biology",
+        "topic": "Mitosis (Unit 3)",
+        "format_style": "Cornell Method",
+        "content": "Study Guide: Cell division resulting in two identical daughter cells. Phases: Prophase, Metaphase, Anaphase, Telophase. Vital for growth and repair. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_081",
+        "date": "2026-09-17",
+        "subject": "Biology",
+        "topic": "Genetics (Unit 4)",
+        "format_style": "Cornell Method",
+        "content": "Study Guide: Study of heredity. Gregor Mendel discovered dominant and recessive traits using pea plants. Punnett squares predict genotype outcomes. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_082",
+        "date": "2026-09-28",
+        "subject": "Chemistry",
+        "topic": "Thermodynamics (Unit 3)",
+        "format_style": "Cornell Method",
+        "content": "Review before Friday's quiz. First law: Energy cannot be created or destroyed. Second law: Entropy of an isolated system always increases over time. Make sure to read chapter text."
+    },
+    {
+        "note_id": "NOTE_083",
+        "date": "2026-09-30",
+        "subject": "Biology",
+        "topic": "Mitosis (Unit 1)",
+        "format_style": "Cornell Method",
+        "content": "Study Guide: Cell division resulting in two identical daughter cells. Phases: Prophase, Metaphase, Anaphase, Telophase. Vital for growth and repair. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_084",
+        "date": "2026-09-17",
+        "subject": "Chemistry",
+        "topic": "Periodic Table (Unit 4)",
+        "format_style": "Standard Bullets",
+        "content": "Review before Friday's quiz. Organized by atomic number. Groups (columns) share similar chemical properties. Periods (rows) represent electron shells. Make sure to read chapter text."
+    },
+    {
+        "note_id": "NOTE_085",
+        "date": "2026-09-15",
+        "subject": "Chemistry",
+        "topic": "Acids and Bases (Unit 1)",
+        "format_style": "Standard Bullets",
+        "content": "Lecture Notes - Important! Acids have a pH < 7 and donate protons. Bases have a pH > 7 and accept protons. Neutralization yields water and salt. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_086",
+        "date": "2026-09-21",
+        "subject": "Biology",
+        "topic": "Photosynthesis (Unit 5)",
+        "format_style": "Cornell Method",
+        "content": "Study Guide: Process by which plants convert light energy into chemical energy. Formula: 6CO2 + 6H2O -> C6H12O6 + 6O2. Occurs in chloroplasts. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_087",
+        "date": "2026-09-29",
+        "subject": "Literature",
+        "topic": "Metaphor vs Simile (Unit 2)",
+        "format_style": "Standard Bullets",
+        "content": "Lecture Notes - Important! Both compare two unlike things. Similes explicitly use 'like' or 'as' (e.g., brave as a lion). Metaphors state it directly. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_088",
+        "date": "2026-09-11",
+        "subject": "History",
+        "topic": "The French Revolution (Unit 2)",
+        "format_style": "Cornell Method",
+        "content": "Review before Friday's quiz. Begot by financial crisis and social inequality in 1789. Led to the rise of Napoleon Bonaparte and the end of absolute monarchy. Make sure to read chapter text."
+    },
+    {
+        "note_id": "NOTE_089",
+        "date": "2026-09-24",
+        "subject": "Literature",
+        "topic": "The Odyssey (Unit 2)",
+        "format_style": "Standard Bullets",
+        "content": "Study Guide: Epic poem attributed to Homer. Chronicles Odysseus's 10-year journey home to Ithaca after the Trojan War. Theme: Hubris. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_090",
+        "date": "2026-09-22",
+        "subject": "History",
+        "topic": "Industrial Revolution (Unit 5)",
+        "format_style": "Summary Paragraph",
+        "content": "Study Guide: Transition to new manufacturing processes in Europe and the US (1760-1840). Shifted agrarian economies to industrial powerhouses. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_091",
+        "date": "2026-09-14",
+        "subject": "Chemistry",
+        "topic": "Thermodynamics (Unit 3)",
+        "format_style": "Standard Bullets",
+        "content": "Review before Friday's quiz. First law: Energy cannot be created or destroyed. Second law: Entropy of an isolated system always increases over time. Make sure to read chapter text."
+    },
+    {
+        "note_id": "NOTE_092",
+        "date": "2026-09-10",
+        "subject": "Literature",
+        "topic": "Metaphor vs Simile (Unit 3)",
+        "format_style": "Standard Bullets",
+        "content": "Study Guide: Both compare two unlike things. Similes explicitly use 'like' or 'as' (e.g., brave as a lion). Metaphors state it directly. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_093",
+        "date": "2026-09-21",
+        "subject": "Literature",
+        "topic": "The Odyssey (Unit 1)",
+        "format_style": "Summary Paragraph",
+        "content": "Study Guide: Epic poem attributed to Homer. Chronicles Odysseus's 10-year journey home to Ithaca after the Trojan War. Theme: Hubris. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_094",
+        "date": "2026-09-21",
+        "subject": "Literature",
+        "topic": "The Odyssey (Unit 5)",
+        "format_style": "Cornell Method",
+        "content": "Lecture Notes - Important! Epic poem attributed to Homer. Chronicles Odysseus's 10-year journey home to Ithaca after the Trojan War. Theme: Hubris. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_095",
+        "date": "2026-09-30",
+        "subject": "History",
+        "topic": "Industrial Revolution (Unit 1)",
+        "format_style": "Summary Paragraph",
+        "content": "Lecture Notes - Important! Transition to new manufacturing processes in Europe and the US (1760-1840). Shifted agrarian economies to industrial powerhouses. Professor emphasized this heavily."
+    },
+    {
+        "note_id": "NOTE_096",
+        "date": "2026-09-14",
+        "subject": "Biology",
+        "topic": "Genetics (Unit 4)",
+        "format_style": "Cornell Method",
+        "content": "Review before Friday's quiz. Study of heredity. Gregor Mendel discovered dominant and recessive traits using pea plants. Punnett squares predict genotype outcomes. Make sure to read chapter text."
+    },
+    {
+        "note_id": "NOTE_097",
+        "date": "2026-09-14",
+        "subject": "Chemistry",
+        "topic": "Thermodynamics (Unit 1)",
+        "format_style": "Summary Paragraph",
+        "content": "Study Guide: First law: Energy cannot be created or destroyed. Second law: Entropy of an isolated system always increases over time. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_098",
+        "date": "2026-09-28",
+        "subject": "History",
+        "topic": "World War I (Unit 3)",
+        "format_style": "Standard Bullets",
+        "content": "Review before Friday's quiz. Triggered by the assassination of Archduke Franz Ferdinand in 1914. Featured trench warfare and ended with the Treaty of Versailles. Make sure to read chapter text."
+    },
+    {
+        "note_id": "NOTE_099",
+        "date": "2026-09-20",
+        "subject": "Literature",
+        "topic": "Metaphor vs Simile (Unit 3)",
+        "format_style": "Summary Paragraph",
+        "content": "Study Guide: Both compare two unlike things. Similes explicitly use 'like' or 'as' (e.g., brave as a lion). Metaphors state it directly. (Note: check textbook diagrams for clarification)."
+    },
+    {
+        "note_id": "NOTE_100",
+        "date": "2026-09-28",
+        "subject": "History",
+        "topic": "The French Revolution (Unit 4)",
+        "format_style": "Standard Bullets",
+        "content": "Lecture Notes - Important! Begot by financial crisis and social inequality in 1789. Led to the rise of Napoleon Bonaparte and the end of absolute monarchy. Professor emphasized this heavily."
+    }
+]
